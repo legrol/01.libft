@@ -4,8 +4,9 @@
 
 ![Descripción](https://img.shields.io/badge/Descripción-blue?style=for-the-badge)
 
-**libft** es una biblioteca en C que recopila y recrea funciones estándar de la libc, así como utilidades adicionales muy útiles para proyectos en C.  
-El objetivo de este proyecto es reforzar los conceptos de manejo de memoria, punteros y manipulación de cadenas en C, construyendo tus propias versiones de funciones como `memset`, `strlcpy`, `strncmp`, y muchas más.
+ - **libft** es una biblioteca en C que recopila y recrea funciones estándar de la libc, así como utilidades adicionales muy útiles para proyectos en C.
+   
+ - El objetivo de este proyecto es reforzar los conceptos de manejo de memoria, punteros y manipulación de cadenas en C, construyendo tus propias versiones de funciones como `memset`, `strlcpy`, `strncmp`, y muchas más.
 
 
 
