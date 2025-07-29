@@ -22,7 +22,6 @@
   - Formateo: `ft_itoa`, `ft_strmapi`  
   - Escritura en descriptor: `ft_putchar_fd`, `ft_putstr_fd`, `ft_putendl_fd`, `ft_putnbr_fd`  
 
-
 ![Autor](https://img.shields.io/badge/Autor-red?style=for-the-badge)
 
 - Roberto del Olmo Lima
