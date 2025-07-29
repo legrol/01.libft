@@ -8,7 +8,7 @@
    
  - El objetivo de este proyecto es reforzar los conceptos de manejo de memoria, punteros y manipulación de cadenas en C, construyendo tus propias versiones de funciones como `memset`, `strlcpy`, `strncmp`, y muchas más.
 
-## 📝 ![Funcionalidades](https://img.shields.io/badge/Funcionalidades-green?style=for-the-badge&logo=readthedocs)
+![Funcionalidades](https://img.shields.io/badge/Funcionalidades-green?style=for-the-badge&logo=readthedocs)
 
 - **Funciones obligatorias (42):**  
   - `ft_memset`, `ft_bzero`, `ft_memcpy`, `ft_memccpy`, `ft_memmove`, `ft_memchr`, `ft_memcmp`  
